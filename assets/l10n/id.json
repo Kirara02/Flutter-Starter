@@ -1,4 +1,10 @@
 {
   "author": "Kirara Bernstein",
-  "locale": "id"
+  "locale": "id",
+  "exit_confirmation": {
+    "title": "Keluar Aplikasi",
+    "message": "Apakah Anda yakin ingin keluar dari aplikasi?",
+    "cancel": "Batal",
+    "exit": "Keluar"
+  }
 }

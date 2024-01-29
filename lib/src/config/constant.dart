@@ -1,4 +1,6 @@
 class AppConstants {
+  //BASEURL
+  static const String BASEURL = "";
 
   // Padding
   /// Padding 4px
@@ -85,5 +87,4 @@ class AppConstants {
 
   ///Icon Size 40
   static const double kIconsXXL = 48.0;
-
 }
