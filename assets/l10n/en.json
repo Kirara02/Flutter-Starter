@@ -1,4 +1,10 @@
 {
   "author": "Kirara Bernstein",
-  "locale": "en"
+  "locale": "en",
+  "exit_confirmation": {
+    "title": "Exit App",
+    "message": "Are you sure you want to exit the app?",
+    "cancel": "Cancel",
+    "exit": "Exit"
+  }
 }
